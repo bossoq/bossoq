@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👏
 
-<!--
-**bossoq/bossoq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details><summary><strong>Active projects</strong></summary>
 
-Here are some ideas to get you started:
+- [.live](https://github.com/bossoq/.live)
+- [ODD แ OUT](https://github.com/bossoq/odd-aer-out)
+- [Siew Generator](https://github.com/bossoq/siew-generator)
+- [toSalim](https://github.com/bossoq/toSalim)
+- [Resume](https://github.com/bossoq/resume)
+- [SimpleSveltekitTemplate](https://github.com/bossoq/simple-sveltekit-template)
+- [MarketReturnsCalculator](https://github.com/bossoq/MarketStatisticsReact)
+- [Tutoring School Website](https://github.com/bossoq/supapanya)
+- [SniffsLiveTwitchBot](https://github.com/Ponny035/SniffsLiveTwitchBot)
+- [SniffsLiveDiscordBot](https://github.com/bossoq/SniffsbotDiscord)
+- [SniffsLiveWebfeed](https://github.com/bossoq/SniffsbotWebfeed)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
+<details><summary><strong>Stats</strong></summary>
+
+## Stats
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=bossoq&count_private=true&show_icons=true&hide_border=true&custom_title=Stats&bg_color=00000000)](https://github.com/bossoq)
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bossoq&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000)](https://github.com/bossoq)
+
+</details>
